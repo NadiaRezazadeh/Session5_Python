@@ -1,6 +1,6 @@
 def checkered():
-    m = int(input("Enter the lenght of the checkerboard ="))
-    n = int(input("Enter the width of the checkerboard ="))
+    m = int(input("Enter the number of rows of the checkerboard ="))
+    n = int(input("Enter the number of columns of the checkerboard ="))
 
     Table = []
 
